@@ -1,0 +1,3 @@
+id_estudiante,nombre,estado,cohorte,semestre_actual,promedio,asistencia_pct,estatus,nivel_riesgo
+EST004,Mariana Ríos,Edomex,2023-2,5,7.0,80.0,Activo,ALTO
+EST007,Diego Morales,Edomex,2024-2,2,7.4,84.5,Activo,ALTO
